@@ -1,0 +1,5 @@
+﻿  paint.cpp
+C:\Users\HP\source\repos\Virtual Painter\Virtual Painter\paint.cpp(37,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\Virtual Painter\Virtual Painter\paint.cpp(44,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\Virtual Painter\Virtual Painter\paint.cpp(86,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Virtual Painter.vcxproj -> C:\Users\HP\source\repos\Virtual Painter\x64\Debug\Virtual Painter.exe
